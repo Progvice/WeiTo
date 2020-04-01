@@ -2,7 +2,7 @@
 /****
     *
     *   Class: WeiTo
-    *       Function: Eth
+    *       Function: Ether
     *           @param $number string | int | float - Input Wei and convert it to Ether
     *           
     *           @desc   This function is meant to change Wei to Ether. Why this was implemented is
