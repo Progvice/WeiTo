@@ -1,6 +1,6 @@
 # WeiTo
 
-WeiTo converts Wei to other ethereum formats.
+WeiTo converts Wei unit to other ethereum units.
 At the moment this class only offers conversion
 from Wei to Ether.
 
