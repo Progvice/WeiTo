@@ -28,7 +28,7 @@ $decimal_balance = Glafuski\WeiTo::Ether('100000000000000000000');
 
 ## Authors
 
-* **Jani Juuso** - *Initial work* - [Glafuski](https://github.com/Glafuski)
+* **Jani Juuso** - *Initial work* - [Progvice](https://github.com/Progvice)
 
 ## License
 
